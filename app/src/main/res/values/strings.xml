@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GetData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_profile">Ver mi perfil</string>
+    <string name="action_view_travels">Ver mis recorridos</string>
+
+    <string name="points_title">Tus puntos:</string>
+    <string name="user_points">844</string>
+    <string name="points_claim">Tus puntos los puedes redimir por los siguientes premios:</string>
+</resources>
